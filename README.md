@@ -1,0 +1,1 @@
+Ce projet vise à étudier les profils clients à travers `la segmentation des clients` et l’analyse de profils similaires regroupés en clusters, dans le but de proposer des stratégies marketing personnalisées et d’améliorer la fidélisation de la clientèle
