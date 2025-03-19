@@ -17,9 +17,25 @@ Ce projet vise à étudier les profils clients à travers `la segmentation des c
 
 ### Analyse des segments de clients à l'aide de la segmentation des données :
 
-- Segmentation client basée sur des données démographiques, comportementales et financières (âge, genre, revenu, score de dépense, fréquence d'achat, etc.).
-- Utilisé des techniques de clustering pour identifier trois segments distincts : jeunes acheteurs fréquents, clients à revenu élevé mais peu actifs, et clients plus âgés avec des montants d'achat élevés.
 - Calcul des statistiques descriptives (moyennes, modes) pour chaque segment afin d'identifier les comportements clés et les préférences des clients.
-- Générer des insights stratégiques : recommandations marketing ciblées pour augmenter la fréquence d'achat, fidéliser les clients et maximiser les revenus par segment.
+
+| Unnamed: 0           |   count |      mean |         std |     min |       25% |       50% |       75% |       max |
+|:---------------------|--------:|----------:|------------:|--------:|----------:|----------:|----------:|----------:|
+| age                  |    1000 |    43.783 |    15.0422  |    18   |    30     |    45     |     57    |     69    |
+| income               |    1000 | 88500.8   | 34230.8     | 30004   | 57911.8   | 87845.5   | 116110    | 149973    |
+| spending_score       |    1000 |    50.685 |    28.9552  |     1   |    26     |    50     |     76    |    100    |
+| membership_years     |    1000 |     5.469 |     2.85573 |     1   |     3     |     5     |      8    |     10    |
+| purchase_frequency   |    1000 |    26.596 |    14.2437  |     1   |    15     |    27     |     39    |     50    |
+| last_purchase_amount |    1000 |   492.349 |   295.744   |    10.4 |   218.762 |   491.595 |    747.17 |    999.74 |
+
 - Créer des visualisations interactives (boxplots, heatmaps) pour présenter les résultats et faciliter la prise de décision.
+
+[]()
+
+- Segmentation client basée sur des données démographiques, comportementales et financières (âge, genre, revenu, score de dépense, fréquence d'achat, etc.).
+
+- Utilisé des techniques de clustering pour identifier trois segments distincts : jeunes acheteurs fréquents, clients à revenu élevé mais peu actifs, et clients plus âgés avec des montants d'achat élevés.
+
+- Générer des insights stratégiques : recommandations marketing ciblées pour augmenter la fréquence d'achat, fidéliser les clients et maximiser les revenus par segment.
+
 - Outils utilisés : Python (pandas, seaborn, matplotlib), Jupyter Notebook.
