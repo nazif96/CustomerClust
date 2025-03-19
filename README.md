@@ -31,7 +31,7 @@ Ce projet vise à étudier les profils clients à travers `la segmentation des c
 
 - Créer des visualisations interactives (boxplots, heatmaps) pour présenter les résultats et faciliter la prise de décision.
 
-[graph1](https://github.com/nazif96/CustomerClust/blob/main/image/output.png)
+![graph1](https://github.com/nazif96/CustomerClust/blob/main/image/output.png)
 
 - Segmentation client basée sur des données démographiques, comportementales et financières (âge, genre, revenu, score de dépense, fréquence d'achat, etc.).
 
