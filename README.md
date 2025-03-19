@@ -1,10 +1,11 @@
-# Customer clust (segmentation )
+# Customer segmentation
 
 ## 🎯 Objectifs 
 Ce projet vise à étudier les profils clients à travers `la segmentation des clients`. Une analyse de profils similaires regroupés en clusters, dans le but de proposer des stratégies marketing personnalisées et d’améliorer la fidélisation de la clientèle
 
 ## 🗃️ Structure du projet 
 ```Structure du projet :
+├── image/
 ├── Analyse_market.html   #  compile en htlm du Analyse_market
 ├── Analyse_market.ipynb  #  jyputer Notebook pour analyse complete des données 
 ├── README.md
@@ -30,7 +31,7 @@ Ce projet vise à étudier les profils clients à travers `la segmentation des c
 
 - Créer des visualisations interactives (boxplots, heatmaps) pour présenter les résultats et faciliter la prise de décision.
 
-[]()
+[graph1](https://github.com/nazif96/CustomerClust/blob/main/image/output.png)
 
 - Segmentation client basée sur des données démographiques, comportementales et financières (âge, genre, revenu, score de dépense, fréquence d'achat, etc.).
 
