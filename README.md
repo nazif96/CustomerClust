@@ -33,6 +33,10 @@ Ce projet vise à étudier les profils clients à travers `la segmentation des c
 
 ![graph1](https://github.com/nazif96/CustomerClust/blob/main/image/output.png)
 
+![graph2](https://github.com/nazif96/CustomerClust/blob/main/image/output1.png)
+
+![graph3](https://github.com/nazif96/CustomerClust/blob/main/image/output8.png)
+
 - Segmentation client basée sur des données démographiques, comportementales et financières (âge, genre, revenu, score de dépense, fréquence d'achat, etc.).
 
 - Utilisé des techniques de clustering pour identifier trois segments distincts : jeunes acheteurs fréquents, clients à revenu élevé mais peu actifs, et clients plus âgés avec des montants d'achat élevés.
