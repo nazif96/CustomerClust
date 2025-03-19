@@ -16,7 +16,7 @@ Ce projet vise à étudier les profils clients à travers `la segmentation des c
 
 ```
 
-### Analyse des segments de clients à l'aide de la segmentation des données :
+### Analyse de la clientèle et les segments l'aide de la segmentation de la clientèle :
 
 - Calcul des statistiques descriptives (moyennes, modes) pour chaque segment afin d'identifier les comportements clés et les préférences des clients.
 
@@ -37,7 +37,7 @@ Ce projet vise à étudier les profils clients à travers `la segmentation des c
 
 ![graph3](https://github.com/nazif96/CustomerClust/blob/main/image/output8.png)
 
-- Utilisé des techniques de clustering pour identifier trois segments distincts : jeunes acheteurs fréquents, clients à revenu élevé mais peu actifs, et clients plus âgés avec des montants d'achat élevés.
+- Usage des techniques de clustering pour identifier trois segments distincts : jeunes acheteurs fréquents, clients à revenu élevé mais peu actifs, et clients plus âgés avec des montants d'achat élevés.
 
 ![graph4](https://github.com/nazif96/CustomerClust/blob/main/image/elbow.png)
 
@@ -55,3 +55,12 @@ Ce projet vise à étudier les profils clients à travers `la segmentation des c
  
 
 - Outils utilisés : Python (pandas, seaborn, matplotlib), Jupyter Notebook.
+
+
+## 👤Auteur
+**AFOLABI Nazifou**
+
+- **Datascientist | Machine Learning & Modeling** 
+- Passionné par les sciences de données et l'intelligence artificielle.
+- **Email** : [afolabinazif96@gmail.com](mailto.afolabinazif96@gmail.com)
+- **LinkedIn** : [Nazifou AFOLABI](https://www.linkedin.com/in/nazifou-afolabi-10544729b/)
