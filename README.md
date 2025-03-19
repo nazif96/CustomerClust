@@ -37,10 +37,21 @@ Ce projet vise à étudier les profils clients à travers `la segmentation des c
 
 ![graph3](https://github.com/nazif96/CustomerClust/blob/main/image/output8.png)
 
-- Segmentation client basée sur des données démographiques, comportementales et financières (âge, genre, revenu, score de dépense, fréquence d'achat, etc.).
-
 - Utilisé des techniques de clustering pour identifier trois segments distincts : jeunes acheteurs fréquents, clients à revenu élevé mais peu actifs, et clients plus âgés avec des montants d'achat élevés.
 
-- Générer des insights stratégiques : recommandations marketing ciblées pour augmenter la fréquence d'achat, fidéliser les clients et maximiser les revenus par segment.
+![graph4](https://github.com/nazif96/CustomerClust/blob/main/image/elbow.png)
+
+![graph5](https://github.com/nazif96/CustomerClust/blob/main/image/silhouette.png)
+
+- Segmentation client basée sur des données démographiques, comportementales et financières (âge, genre, revenu, score de dépense, fréquence d'achat, etc.).
+
+![graph6](https://github.com/nazif96/CustomerClust/blob/main/image/output2.png)
+
+![graph7](https://github.com/nazif96/CustomerClust/blob/main/image/output4.png)
+
+![graph8](https://github.com/nazif96/CustomerClust/blob/main/image/output5.png)
+
+- Générer des insights stratégiques : [recommandations marketing ciblées](https://github.com/nazif96/CustomerClust/blob/main/Analyse_market.ipynb) pour augmenter la fréquence d'achat, fidéliser les clients et maximiser les revenus par segment.
+ 
 
 - Outils utilisés : Python (pandas, seaborn, matplotlib), Jupyter Notebook.
