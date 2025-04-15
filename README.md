@@ -57,6 +57,121 @@ Ce projet vise à étudier les profils clients à travers `la segmentation des c
 - Outils utilisés : Python (pandas, seaborn, matplotlib), Jupyter Notebook.
 
 
+###  🎯 Synthèse des Segments Clients
+
+🔹 **Segment 1 – Jeunes acheteurs fidèles (Cluster 1)**
+
+Âge moyen : 30 ans
+
+Revenu moyen : 90 800
+
+Score de dépense : 43
+
+Années d'adhésion : 6 ans
+
+Fréquence d'achat : 34 (élevée)
+
+Dernier montant d'achat : 449 (moyen)
+
+Genre dominant : Homme
+
+Catégorie préférée : Home & Garden
+
+- 🧠 Insight : Clients jeunes, engagés, avec un pouvoir d’achat conséquent et une affinité forte pour les produits maison.
+
+- 🎯 Stratégie :
+
+Campagnes ciblées sur la catégorie Home & Garden
+
+Offres de fidélisation (abonnements, points récompense)
+
+Mises en avant saisonnières ou collections exclusives
+
+🔹 **Segment 2 – Consommateurs haut revenu mais peu actifs (Cluster 2)**
+
+Âge moyen : 48 ans
+
+Revenu moyen : 97 625 (le plus élevé)
+
+Score de dépense : 55
+
+Années d'adhésion : 4.8 ans
+
+Fréquence d'achat : 18 (faible)
+
+Dernier montant d'achat : 249 (modeste)
+
+Genre dominant : Femme
+
+Catégorie préférée : Groceries
+
+- 🧠 Insight : Bien que fortunés, ces clients dépensent peu et de manière peu fréquente. Il y a un potentiel inexploité.
+
+- 🎯 Stratégie :
+
+Offres promotionnelles et points de fidélité pour stimuler la fréquence d'achat
+
+Sélection de produits alimentaires premium
+
+Mise en avant de services personnalisés ou d’abonnements “confort”
+
+🔹 **Segment 3 – Seniors technophiles (Cluster 3)**
+
+Âge moyen : 52 ans
+
+Revenu moyen : 77 892 (le plus bas)
+
+Score de dépense : 53
+
+Années d'adhésion : 5.5 ans
+
+Fréquence d'achat : 27 (moyenne)
+
+Dernier montant d'achat : 757 (le plus élevé)
+
+Genre dominant : Autre
+
+Catégorie préférée : Electronics
+
+- 🧠 Insight : Clientèle mûre et technophile, avec des achats plus rares mais plus coûteux.
+
+- 🎯 Stratégie :
+
+Offres sur produits électroniques haut de gamme
+
+Essais gratuits ou démonstrations personnalisées
+
+Assistance client renforcée pour l’adoption de nouvelles technologies
+
+### ✅ Recommandations Stratégiques Globales
+
+**1. Segmentation dynamique**
+
+Adopter des campagnes marketing spécifiques à chaque cluster :
+
+Cluster 1 : Promotions Home & Garden
+
+Cluster 2 : Gammes premium en alimentation
+
+Cluster 3 : Gadgets technologiques et innovations
+
+**2. Programmes de fidélité ciblés**
+
+Cluster 1 : Récompenses fréquentes pour maintenir l’engagement
+
+Cluster 2 : Offres exclusives et abonnement “essai”
+
+Cluster 3 : Réductions cumulatives ou remises par paliers
+
+**3. Optimisation produit & relation client**
+
+Mettre en avant les catégories préférées selon le segment
+
+Développer une approche relationnelle sur mesure pour fidéliser les clients à forte valeur potentielle (haut revenu ou dépenses élevées)
+
+
+
+
 ## 👤Auteur
 **AFOLABI Nazifou**
 
