@@ -175,7 +175,7 @@ Développer une approche relationnelle sur mesure pour fidéliser les clients à
 ## 👤Auteur
 **AFOLABI Nazifou**
 
-- **Datascientist | Machine Learning & Modeling** 
-- Passionné par les sciences de données et l'intelligence artificielle.
+- **Data Analyst** 
+- Passionné par l'analyse de données et le data driven .
 - **Email** : [afolabinazif96@gmail.com](mailto.afolabinazif96@gmail.com)
 - **LinkedIn** : [Nazifou AFOLABI](https://www.linkedin.com/in/nazifou-afolabi-10544729b/)
